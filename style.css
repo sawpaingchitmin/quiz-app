@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(image/quiz.avif);
+    background-image: url(images/quiz.avif);
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
