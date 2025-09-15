@@ -14,7 +14,7 @@ Test your knowledge of **HTML, CSS, and JavaScript** with multiple-choice questi
 
 ---
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - HTML5
 - CSS3 (responsive styling)
 - JavaScript (quiz logic, DOM manipulation)
